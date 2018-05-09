@@ -2,6 +2,9 @@ h1 {
     font-family: Georgia, 'Times New Roman', Times, serif;
     background-color: #4aaaa5;
     color: #ffffff;
+    width: 300px;
+    padding: 20px;
+    text-align: center;
 }
 h2 {
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -20,7 +23,7 @@ form {
     color: #777777;
 }
 header {
-    padding: 20px;
+    /* padding: 20px; */
     margin-bottom: 20px;
     background-color: #ffffff;
     border-style: solid;
